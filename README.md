@@ -142,6 +142,24 @@ console.log( accumulator() );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/incr/hmean`][@stdlib/stats/incr/hmean]: compute a harmonic mean incrementally.
+-   [`@stdlib/stats/incr/mgmean`][@stdlib/stats/incr/mgmean]: compute a moving geometric mean incrementally.
+-   [`@stdlib/stats/incr/mmean`][@stdlib/stats/incr/mmean]: compute a moving arithmetic mean incrementally.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -198,6 +216,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-incr-mhmean/main/LICENSE
 
 [harmonic-mean]: https://en.wikipedia.org/wiki/Harmonic_mean
+
+<!-- <related-links> -->
+
+[@stdlib/stats/incr/hmean]: https://github.com/stdlib-js/stats-incr-hmean
+
+[@stdlib/stats/incr/mgmean]: https://github.com/stdlib-js/stats-incr-mgmean
+
+[@stdlib/stats/incr/mmean]: https://github.com/stdlib-js/stats-incr-mmean
+
+<!-- </related-links> -->
 
 </section>
 
