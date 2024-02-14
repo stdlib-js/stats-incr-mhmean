@@ -63,6 +63,11 @@ The [harmonic mean][harmonic-mean] of positive real numbers `x_0, x_1, ..., x_{n
 ## Usage
 
 ```javascript
+import incrmhmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mhmean@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-incr-mhmean/tags). For example,
+
+```javascript
 import incrmhmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mhmean@v0.2.0-deno/mod.js';
 ```
 
@@ -128,7 +133,7 @@ v = accumulator();
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import incrmhmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mhmean@v0.2.0-deno/mod.js';
+import incrmhmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mhmean@deno/mod.js';
 
 var accumulator;
 var v;
