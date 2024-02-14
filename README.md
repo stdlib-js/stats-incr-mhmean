@@ -63,7 +63,7 @@ The [harmonic mean][harmonic-mean] of positive real numbers `x_0, x_1, ..., x_{n
 ## Usage
 
 ```javascript
-import incrmhmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mhmean@deno/mod.js';
+import incrmhmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mhmean@v0.2.0-deno/mod.js';
 ```
 
 #### incrmhmean( window )
@@ -128,7 +128,7 @@ v = accumulator();
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import incrmhmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mhmean@deno/mod.js';
+import incrmhmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mhmean@v0.2.0-deno/mod.js';
 
 var accumulator;
 var v;
