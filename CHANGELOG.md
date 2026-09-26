@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-13)
+## Unreleased (2026-09-26)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`33b0476`](https://github.com/stdlib-js/stdlib/commit/33b0476aa0e6785097ad8744271151b07690df57) - **test:** migrate `stats/incr/mhmean` to ULP-based assertions [(#15561)](https://github.com/stdlib-js/stdlib/pull/15561) _(by Philipp Burckhardt)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`6c38993`](https://github.com/stdlib-js/stdlib/commit/6c38993a7eabe55b575ff98f2b997eb31a146eef) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
